@@ -1,6 +1,6 @@
 # Site settings
-title: 성장하는 데이터쟁이
-description: '항상 성장하기 위해 노력하는 데이터쟁이의 지식 정리 블로그' # this means to ignore newlines until "baseurl:"
+title: 데이터 제네럴리스트를 향한 여정
+description: '데이터 제네럴리스트가 되기 위한 지식 정리 블로그' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://taekyu0129.github.io" # the base hostname & protocol for your site, e.g. http://example.com
